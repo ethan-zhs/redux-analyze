@@ -21,4 +21,5 @@ npm start
     - store.js          // redux
 ```
 
-**Document**
+**Doc**
+issue: [Redux原理分析与简单实现](https://github.com/ethan-zhs/redux-analyze/issues/1)
